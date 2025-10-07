@@ -1,3 +1,3 @@
 # Kalmiya
 
-An artificial, intelligent, personal, assistant.
+A virtual, intelligent, personal, assistant.
